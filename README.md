@@ -1,1 +1,1 @@
-# Flask demo for Jenkins devops
+# Flask demo for Jenkins DevOps
